@@ -9,9 +9,9 @@ export const BUALIN = {
   instagramUrl: 'https://www.instagram.com/bualinthaimassage/',
   facebookUrl: 'https://web.facebook.com/profile.php?id=61582898821738',
   directionsUrl:
-    'https://www.google.com/maps/dir/?api=1&destination=Suite+1,+Shop+10/670+Bellarine+Highway+Leopold+VIC+3224,+Australia',
+    'https://www.google.com/maps/dir/?api=1&destination=-38.1873397,144.4559326',
   mapsEmbedUrl:
-    'https://maps.google.com/maps?q=Shop+10,+670+Bellarine+Highway,+Leopold+VIC+3224,+Australia&output=embed&z=16',
+    'https://maps.google.com/maps?q=-38.1873397,144.4559326&output=embed&z=16',
 } as const
 
 export const SERVICES = [
