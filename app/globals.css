@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Signature arched aperture: top semicircle, flat base */
+.arch {
+  border-top-left-radius: 50% 38%;
+  border-top-right-radius: 50% 38%;
+}
+
+/* Wide arch variant for studio room gallery */
+.arch-wide {
+  border-top-left-radius: 50% 22%;
+  border-top-right-radius: 50% 22%;
+}
