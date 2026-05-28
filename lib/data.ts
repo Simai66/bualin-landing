@@ -11,7 +11,7 @@ export const BUALIN = {
   directionsUrl:
     'https://www.google.com/maps/dir/?api=1&destination=-38.187330462882805,144.45593375710231',
   mapsEmbedUrl:
-    'https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d427.21472146191934!2d144.456378!3d-38.187361!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x6ad43f7095f42963%3A0x25b5573688e02f89!2zQnVhbGluIFRoYWkgTWFzc2FnZSBUaGVyYXB5IFN1aXRlIDEgc2hvcCAxMC82NzAgQmVsbGFyaW5lIEh3eSwgTGVvcG9sZCBWSUMgMzIyNCDguK3guK3guKrguYDguJXguKPguYDguKXguLXguKI!3m2!1d-38.1874496!2d144.4563705!4m5!1s0x6ad43f7095f42963%3A0x25b5573688e02f89!2zQnVhbGluIFRoYWkgTWFzc2FnZSBUaGVyYXB5IFN1aXRlIDEgc2hvcCAxMC82NzAgQmVsbGFyaW5lIEh3eSwgTGVvcG9sZCBWSUMgMzIyNCDguK3guK3guKrguYDguJXguKPguYDguKXguLXguKI!3m2!1d-38.1874496!2d144.4563705!5e1!3m2!1sth!2sth!4v1779952826225!5m2!1sth!2sth',
+    'https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d427.21472146191934!2d144.456378!3d-38.187361!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sth!2sth!4v1779953338554!5m2!1sth!2sth',
 } as const
 
 export const SERVICES = [
