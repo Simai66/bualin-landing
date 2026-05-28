@@ -11,7 +11,7 @@ export const BUALIN = {
   directionsUrl:
     'https://www.google.com/maps/dir/?api=1&destination=-38.187330462882805,144.45593375710231',
   mapsEmbedUrl:
-    'https://maps.google.com/maps?q=-38.187330462882805,144.45593375710231&output=embed&z=18',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d215.8399280612382!2d144.45565613491738!3d-38.18733954578855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad43f7095f42963%3A0x25b5573688e02f89!2sBualin%20Thai%20Massage%20Therapy!5e1!3m2!1sth!2sth!4v1779949641667!5m2!1sth!2sth',
 } as const
 
 export const SERVICES = [
