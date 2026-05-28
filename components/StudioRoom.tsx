@@ -30,7 +30,7 @@ export function StudioRoom() {
           className="font-head italic font-normal text-ink-soft mx-auto"
           style={{ fontSize: 'clamp(16px, 1.5vw, 22px)', margin: '20px auto 0', maxWidth: 640, lineHeight: 1.5 }}
         >
-          One massage treatment room located within Deeluscious and Trimtrove barber — warm-lit and candlelit, the scent of lemongrass through the door.
+          One massage treatment room located within Deeluscious and Trimtrove barber.
         </p>
       </div>
 
