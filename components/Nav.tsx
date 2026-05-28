@@ -37,7 +37,13 @@ export function Nav() {
         href={BUALIN.bookingUrl}
         target="_blank"
         rel="noopener noreferrer"
-        className="font-body text-[11px] sm:text-[10px] tracking-[0.22em] uppercase text-ink font-medium no-underline hover:text-gold transition-colors duration-200"
+        className="font-body text-[11px] sm:text-[10px] tracking-[0.22em] uppercase font-medium no-underline transition-opacity duration-200 hover:opacity-80"
+        style={{
+          background: '#B87C5A',
+          color: '#FBF6EC',
+          borderRadius: 999,
+          padding: '10px 22px',
+        }}
       >
         Book Now
       </a>
