@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { SERVICES } from '@/lib/data'
+import { SERVICES, BUALIN } from '@/lib/data'
 
 export function Services() {
   return (
@@ -128,6 +128,24 @@ export function Services() {
                     </div>
                   ))}
                 </div>
+
+                {/* Book button */}
+                <a
+                  href={BUALIN.bookingUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-5 block w-full text-center font-body font-medium text-paper"
+                  style={{
+                    background: '#B87C5A',
+                    borderRadius: 999,
+                    padding: '14px 0',
+                    fontSize: 15,
+                    letterSpacing: '0.06em',
+                    textDecoration: 'none',
+                  }}
+                >
+                  Book
+                </a>
               </div>
             </article>
           )
