@@ -9,9 +9,9 @@ export const BUALIN = {
   instagramUrl: 'https://www.instagram.com/bualinthaimassage/',
   facebookUrl: 'https://web.facebook.com/profile.php?id=61582898821738',
   directionsUrl:
-    'https://www.google.com/maps/dir/?api=1&destination=-38.1873397,144.4559326',
+    'https://www.google.com/maps/dir/?api=1&destination=-38.187330462882805,144.45593375710231',
   mapsEmbedUrl:
-    'https://maps.google.com/maps?q=-38.1873397,144.4559326&output=embed&z=16',
+    'https://maps.google.com/maps?q=-38.187330462882805,144.45593375710231&output=embed&z=18',
 } as const
 
 export const SERVICES = [
