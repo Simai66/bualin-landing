@@ -11,7 +11,7 @@ export const BUALIN = {
   directionsUrl:
     'https://www.google.com/maps/dir/?api=1&destination=-38.187330462882805,144.45593375710231',
   mapsEmbedUrl:
-    'https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d427.21472146191934!2d144.456378!3d-38.187361!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sth!2sth!4v1779953338554!5m2!1sth!2sth',
+    'https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d854.4284934694006!2d144.4557309285435!3d-38.187441944137134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzjCsDExJzE0LjgiUyAxNDTCsDI3JzIzLjAiRQ!5e1!3m2!1sth!2sth!4v1779953898653!5m2!1sth!2sth',
 } as const
 
 export const SERVICES = [
